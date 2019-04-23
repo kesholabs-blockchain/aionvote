@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="aion4j-cache">
+    <option name="methodArgs">
+      <map>
+        <entry key="addMember-avm.Address,">
+          <value>
+            <list>
+              <option value="0x17563dd00ec7acd9af2cedf24491afa41f7822c8" />
+            </list>
+          </value>
+        </entry>
+        <entry key="addPost-java.lang.String,">
+          <value>
+            <list>
+              <option value="hello joe are you good?" />
+            </list>
+          </value>
+        </entry>
+        <entry key="createTypeAPoll-java.lang.String,">
+          <value>
+            <list>
+              <option value="Are you mad?" />
+            </list>
+          </value>
+        </entry>
+        <entry key="getIsLiked-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getOnlyOwner-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="getProposals-">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="isMember-avm.Address,">
+          <value>
+            <list>
+              <option value="0x17563dd00ec7acd9af2cedf24491afa41f7822c8" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
