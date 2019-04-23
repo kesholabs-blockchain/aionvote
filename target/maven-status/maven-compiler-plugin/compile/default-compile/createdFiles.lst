@@ -7,3 +7,4 @@ voters/TypeBResponseModel.class
 voters/Vote.class
 voters/Proposal.class
 voters/TypeAResponseModel.class
+voters/CountHolder.class
