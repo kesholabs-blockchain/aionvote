@@ -17,10 +17,18 @@
             </list>
           </value>
         </entry>
+        <entry key="createPoll-java.lang.String,java.lang.String,">
+          <value>
+            <list>
+              <option value="typeA" />
+              <option value="are you hungry?" />
+            </list>
+          </value>
+        </entry>
         <entry key="createTypeAPoll-java.lang.String,">
           <value>
             <list>
-              <option value="Are you sick?" />
+              <option value="post one" />
             </list>
           </value>
         </entry>
@@ -34,9 +42,24 @@
             <list />
           </value>
         </entry>
+        <entry key="getProposalDescription-int,java.lang.String,">
+          <value>
+            <list>
+              <option value="1" />
+              <option value="typeA" />
+            </list>
+          </value>
+        </entry>
         <entry key="getProposals-">
           <value>
             <list />
+          </value>
+        </entry>
+        <entry key="greet-java.lang.String,">
+          <value>
+            <list>
+              <option value="BUDA" />
+            </list>
           </value>
         </entry>
         <entry key="isMember-avm.Address,">

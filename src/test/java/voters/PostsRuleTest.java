@@ -25,7 +25,7 @@ public class PostsRuleTest {
         //deploy Dapp:
         // 1- get the Dapp byes to be used for the deploy transaction
         // 2- deploy the Dapp and get the address.
-        byte[] dapp = avmRule.getDappBytes(Posts.class, null);
+        byte[] dapp = avmRule.getDappBytes(MainContract.class, null);
         dappAddr = avmRule.deploy(from, BigInteger.ZERO, dapp).getDappAddress();
     }
 

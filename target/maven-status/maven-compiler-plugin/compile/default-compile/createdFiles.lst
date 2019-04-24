@@ -1,10 +1,4 @@
+voters/TypeB.class
 voters/TypeA.class
 voters/TypeC.class
 voters/MainContract.class
-voters/TypeCResponseModel.class
-voters/Posts.class
-voters/TypeBResponseModel.class
-voters/Vote.class
-voters/Proposal.class
-voters/TypeAResponseModel.class
-voters/CountHolder.class

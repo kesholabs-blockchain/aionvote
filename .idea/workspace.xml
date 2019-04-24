@@ -2,26 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46a517c3-50dd-4523-b150-fc4d76fe0680" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aion4j.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/aion4j-cache.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/aion4j-cache.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/CountHolder.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voters/MainContract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voters/MainContract.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeBResponseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voters/TypeBResponseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/Posts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/Proposal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voters/TypeA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeAResponseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeBResponseModel.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voters/TypeC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeCResponseModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/voters/TypeCResponseModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/TypeCResponseModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/voters/Vote.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/voters/PostsRuleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/voters/PostsRuleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/CountHolder.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/voters/MainContract.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voters/MainContract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeBResponseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voters/TypeBResponseModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/Posts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/Proposal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeA.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voters/TypeA.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeAResponseModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeBResponseModel.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voters/TypeC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeCResponseModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/voters/TypeCResponseModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/TypeCResponseModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/voters/Vote.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/original-votersSys-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/original-votersSys-0.0.1-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_a025f4fd54064e869f158c1b4eb0ed34820f67e60ee80a53b469f725efc06378/balance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/balance" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_a092de3423a1e77f4c5f8500564e3601759143b7c0e652a7012d35eb67b283ca/nonce" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/storage/account_edf4758814501b1b71c8c95f88b8219090a4fb577bc03aa802980ac5df33d863/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/storage/account_f48e9c9a9d54dd897e2e226d44fb1c153708b6e5b2ee0f31fdd757fecb9e7c24/balance" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/voters/PostsRuleTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/voters/PostsRuleTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/votersSys-0.0.1-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/votersSys-0.0.1-SNAPSHOT.jar" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/classes/" />
@@ -37,42 +47,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeC.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voters/CountHolder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/voters/MainContract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="166">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="671">
+              <caret line="103" column="87" selection-start-line="103" selection-start-column="87" selection-end-line="103" selection-end-column="87" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="method#createPoll#0;class#MainContract#0" />
                 <element signature="method#createTypeAPoll#0;class#MainContract#0" />
                 <element signature="method#createTypeBPoll#0;class#MainContract#0" />
                 <element signature="method#createTypeCPoll#0;class#MainContract#0" />
-                <element signature="method#addMember#0;class#MainContract#0" />
+                <element signature="method#getProposalDescription#0;class#MainContract#0" />
+                <element signature="e#2077#2242#0" />
+                <element signature="method#getBalance#0;class#MainContract#0" />
                 <element signature="method#vote#0;class#MainContract#0" />
-                <element signature="method#votetypeA#0;class#MainContract#0" />
-                <element signature="method#votetypeB#0;class#MainContract#0" />
-                <element signature="method#votetypeC#0;class#MainContract#0" />
               </folding>
             </state>
           </provider>
@@ -81,20 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeA.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeBResponseModel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+            <state relative-caret-position="225">
+              <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,18 +94,20 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/voters/HelloAvm.java" />
         <option value="$PROJECT_DIR$/src/main/java/voters/Vote.java" />
         <option value="$PROJECT_DIR$/src/main/java/voters/Posts.java" />
         <option value="$PROJECT_DIR$/src/main/java/voters/Proposal.java" />
         <option value="$PROJECT_DIR$/src/main/java/voters/PostModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voters/TypeA.java" />
         <option value="$PROJECT_DIR$/src/main/java/voters/CountHolder.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voters/TypeBResponseModel.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/voters/TypeCResponseModel.java" />
-        <option value="$PROJECT_DIR$/src/main/java/voters/MainContract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voters/TypeBResponseModel.java" />
+        <option value="$PROJECT_DIR$/src/test/java/voters/PostsRuleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voters/TypeB.java" />
         <option value="$PROJECT_DIR$/src/main/java/voters/TypeC.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voters/TypeA.java" />
+        <option value="$PROJECT_DIR$/src/main/java/voters/MainContract.java" />
       </list>
     </option>
   </component>
@@ -196,7 +175,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../AionVoters" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../test" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -229,18 +208,18 @@
       <workItem from="1555190571475" duration="600000" />
       <workItem from="1555525598432" duration="12830000" />
       <workItem from="1555936607835" duration="58000" />
-      <workItem from="1556020257048" duration="14397000" />
+      <workItem from="1556020257048" duration="29006000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38891000" />
+    <option name="totallyTimeSpent" value="53500000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="89" y="26" width="1685" height="1010" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26784626" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26784626" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -248,7 +227,7 @@
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.503386" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.503386" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -303,13 +282,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/target/storage/account_0b2260914e069f3c38e1974bbdf0b7d7cfa3ecaf08622f917bed06f5d06cc194/balance" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/voters/PostsRuleTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="797">
-          <caret line="71" selection-start-line="14" selection-start-column="3" selection-end-line="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voters/Posts.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -324,27 +296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="63" selection-start-line="11" selection-start-column="7" selection-end-line="18" selection-end-column="63" />
-          <folding>
-            <element signature="n#build#0;n#project#0;n#!!top" />
-            <element signature="n#profiles#0;n#project#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voters/Vote.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,20 +318,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeCResponseModel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/voters/Vote.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        <state relative-caret-position="290">
+          <caret line="24" column="16" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeA.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="n#build#0;n#project#0;n#!!top" />
+            <element signature="n#profiles#0;n#project#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeCResponseModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="47" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -397,10 +359,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/voters/PostsRuleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeC.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="37" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+        <state relative-caret-position="234">
+          <caret line="19" column="46" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="5" lean-forward="true" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projectY/solidity/aion-roulette-tutorial/contracts/Casino.sol">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="78" lean-forward="true" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projectY/job/aion_web3/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/projectY/job/aion_web3/console.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/voters/TypeA.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -409,18 +419,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/voters/MainContract.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="671">
+          <caret line="103" column="87" selection-start-line="103" selection-start-column="87" selection-end-line="103" selection-end-column="87" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="method#createPoll#0;class#MainContract#0" />
             <element signature="method#createTypeAPoll#0;class#MainContract#0" />
             <element signature="method#createTypeBPoll#0;class#MainContract#0" />
             <element signature="method#createTypeCPoll#0;class#MainContract#0" />
-            <element signature="method#addMember#0;class#MainContract#0" />
+            <element signature="method#getProposalDescription#0;class#MainContract#0" />
+            <element signature="e#2077#2242#0" />
+            <element signature="method#getBalance#0;class#MainContract#0" />
             <element signature="method#vote#0;class#MainContract#0" />
-            <element signature="method#votetypeA#0;class#MainContract#0" />
-            <element signature="method#votetypeB#0;class#MainContract#0" />
-            <element signature="method#votetypeC#0;class#MainContract#0" />
           </folding>
         </state>
       </provider>
